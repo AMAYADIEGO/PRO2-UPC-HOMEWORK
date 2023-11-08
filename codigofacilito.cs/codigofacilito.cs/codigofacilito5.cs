@@ -2,20 +2,21 @@ using system;
 
 namespace Presentacion5
 {
-    class program   
+   public class clsEmpleados   
     {
-        static void Main(string[] args)
+        public clsEmpleados()
         {
-            clsEmpleados empleado;
-            empleado = new clsEmpleados();
-            empleado.Edad = 25;
-            empleado.Nombre = "Diego Amaya";
-            empleado.SueldoDiario = 12.5m;
-            decimal total;
-            total = empleado.CalculaSalario(30);
-            Console.WriteLine("El salario mensual del empleado" + empleado.Nombre);
-            Console.WriteLine("es :" + total.ToString("C"));
-            Console.Readkey();
+            Nombre = "";
+            SueldoDiario = 0.0m;
+            Edad = 0;
+        }
+        public string Nombre;
+        public decimal SueldoDiario;
+        public int Edad;
+
+        public decimal CalculaSalario(int NumeroDias)
+        {
+            return SueldoDiario * NumeroDias
         }
     }
 }     
