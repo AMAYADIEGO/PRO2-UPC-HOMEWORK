@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\obj\Debug\net7.0\practico primer parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\obj\Debug\net7.0\practico primer parcial.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\obj\Debug\net7.0\practico primer parcial.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\obj\Debug\net7.0\practico primer parcial.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\bin\Debug\net7.0\practico primer parcial.exe
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\bin\Debug\net7.0\practico primer parcial.deps.json
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\bin\Debug\net7.0\practico primer parcial.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\bin\Debug\net7.0\practico primer parcial.dll
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\bin\Debug\net7.0\practico primer parcial.pdb
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\obj\Debug\net7.0\practico primer parcial.dll
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\obj\Debug\net7.0\refint\practico primer parcial.dll
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\obj\Debug\net7.0\practico primer parcial.pdb
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\obj\Debug\net7.0\practico primer parcial.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\PRO2-UPC-HOMEWORK\practico primer parcial\obj\Debug\net7.0\ref\practico primer parcial.dll
