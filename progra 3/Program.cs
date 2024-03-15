@@ -13,6 +13,8 @@ namespace avance{
             string oracion = "hola como estas";
             int resultado = ContarPalabrasMasTresLetras(oracion);
             Console.WriteLine("El ultimo de palabras con mas de tres letras es:" + resultado);
+            int[,] mat = LlenarMatrizSerpiente(4, 3);
+            ImprimirMatriz(mat);
         }
 
         static int RotarDigito(int numero)
@@ -61,5 +63,43 @@ namespace avance{
             Console.WriteLine();
         }
 
+        static int[,] LlenarMatrizSerpiente(int filas, int columnas)
+        {
+        int[,] matriz = new int[filas, columnas]; // Crear una matrizvacía con las dimensiones especificadas
+        int valor = 1;
+        for (int fila = 0; fila < filas; fila++)
+        {
+        // Determinar la dirección de llenado de la fila (izquierdaa derecha o derecha a izquierda)
+        bool derecha = fila % 2 == 0;
+        // Llenar la fila en la dirección determinada
+        if (derecha)
+        {
+        for (int columna = 0; columna < columnas; columna++)
+        {
+        matriz[fila, columna] = valor++;
+        }
+        }
+        else
+        {
+        for (int columna = columnas - 1; columna >= 0; columna--)
+        {
+        matriz[fila, columna] = valor++;
+        }
+        }
+        }
+        return matriz;
+        }
+
+        static void ImprimirMatriz<T>(T[,] matriz)
+        {
+            for (int fila = 0; fila < matriz.GetLength(0); fila++)
+            {
+                for (int columna = 0; columna < matriz.GetLength(1); columna++)
+                {
+                    Console.Write(matriz[fila, columna] + "\t");
+                }
+                Console.WriteLine();
+            }
+        }
     }
 }
