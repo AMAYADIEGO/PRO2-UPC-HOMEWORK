@@ -10,7 +10,9 @@ namespace avance{
             Console.WriteLine(nuevoNumero);
             int[] num = {1, 2, 3, 4, 5, 6,};
             Console.WriteLine(SumarElementosVector(num));
-            
+            string oracion = "hola como estas";
+            int resultado = ContarPalabrasMasTresLetras(oracion);
+            Console.WriteLine("El ultimo de palabras con mas de tres letras es:" + resultado);
         }
 
         static int RotarDigito(int numero)
