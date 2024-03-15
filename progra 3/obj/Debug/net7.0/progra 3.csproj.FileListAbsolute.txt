@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\progra 3\bin\Debug\net7.0\progra 3.exe
+C:\Users\PC\Desktop\progra 3\bin\Debug\net7.0\progra 3.deps.json
+C:\Users\PC\Desktop\progra 3\bin\Debug\net7.0\progra 3.runtimeconfig.json
+C:\Users\PC\Desktop\progra 3\bin\Debug\net7.0\progra 3.dll
+C:\Users\PC\Desktop\progra 3\bin\Debug\net7.0\progra 3.pdb
+C:\Users\PC\Desktop\progra 3\obj\Debug\net7.0\progra 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\progra 3\obj\Debug\net7.0\progra 3.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\progra 3\obj\Debug\net7.0\progra 3.AssemblyInfo.cs
+C:\Users\PC\Desktop\progra 3\obj\Debug\net7.0\progra 3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\progra 3\obj\Debug\net7.0\progra 3.dll
+C:\Users\PC\Desktop\progra 3\obj\Debug\net7.0\refint\progra 3.dll
+C:\Users\PC\Desktop\progra 3\obj\Debug\net7.0\progra 3.pdb
+C:\Users\PC\Desktop\progra 3\obj\Debug\net7.0\progra 3.genruntimeconfig.cache
+C:\Users\PC\Desktop\progra 3\obj\Debug\net7.0\ref\progra 3.dll
