@@ -1,0 +1,18 @@
+D=> hola como estas  ; R=> 6
+D=> muy bien y ri  ; R=> 4
+D=> skjdopc sd ka ; R=> 2
+D=> hola como estas  ; R=> 6
+D=> muy bien y ri  ; R=> 4
+D=> skjdopc sd ka ; R=> 2
+D=> hola yani como estas  ; R=> 8
+D=> ya comiste  ; R=> 4
+D=> eres una persona increible ; R=> 11
+D=> 21 ; R=> impar
+D=> 3 ; R=> impar
+D=> 2 ; R=> par
+D=> 21 ; R=> System.Func`2[System.Int32,System.Boolean]
+D=> 3 ; R=> System.Func`2[System.Int32,System.Boolean]
+D=> 2 ; R=> System.Func`2[System.Int32,System.Boolean]
+D=> 21 ; R=> System.Func`2[System.Int32,System.Int32]
+D=> 3 ; R=> System.Func`2[System.Int32,System.Int32]
+D=> 2 ; R=> System.Func`2[System.Int32,System.Int32]
