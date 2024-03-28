@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\fichero\bin\Debug\net7.0\fichero.exe
+C:\Users\PC\Documents\fichero\bin\Debug\net7.0\fichero.deps.json
+C:\Users\PC\Documents\fichero\bin\Debug\net7.0\fichero.runtimeconfig.json
+C:\Users\PC\Documents\fichero\bin\Debug\net7.0\fichero.dll
+C:\Users\PC\Documents\fichero\bin\Debug\net7.0\fichero.pdb
+C:\Users\PC\Documents\fichero\obj\Debug\net7.0\fichero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\fichero\obj\Debug\net7.0\fichero.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\fichero\obj\Debug\net7.0\fichero.AssemblyInfo.cs
+C:\Users\PC\Documents\fichero\obj\Debug\net7.0\fichero.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\fichero\obj\Debug\net7.0\fichero.dll
+C:\Users\PC\Documents\fichero\obj\Debug\net7.0\refint\fichero.dll
+C:\Users\PC\Documents\fichero\obj\Debug\net7.0\fichero.pdb
+C:\Users\PC\Documents\fichero\obj\Debug\net7.0\fichero.genruntimeconfig.cache
+C:\Users\PC\Documents\fichero\obj\Debug\net7.0\ref\fichero.dll
