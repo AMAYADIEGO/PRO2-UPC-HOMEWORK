@@ -1,0 +1,14 @@
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\bin\Debug\net8.0\estructura de datos.exe
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\bin\Debug\net8.0\estructura de datos.deps.json
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\bin\Debug\net8.0\estructura de datos.runtimeconfig.json
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\bin\Debug\net8.0\estructura de datos.dll
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\bin\Debug\net8.0\estructura de datos.pdb
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\obj\Debug\net8.0\estructura de datos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\obj\Debug\net8.0\estructura de datos.AssemblyInfoInputs.cache
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\obj\Debug\net8.0\estructura de datos.AssemblyInfo.cs
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\obj\Debug\net8.0\estructura de datos.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\obj\Debug\net8.0\estructura de datos.dll
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\obj\Debug\net8.0\refint\estructura de datos.dll
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\obj\Debug\net8.0\estructura de datos.pdb
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\obj\Debug\net8.0\estructura de datos.genruntimeconfig.cache
+E:\Nueva carpeta (2)\estructura de datos\estructura de datos\obj\Debug\net8.0\ref\estructura de datos.dll
