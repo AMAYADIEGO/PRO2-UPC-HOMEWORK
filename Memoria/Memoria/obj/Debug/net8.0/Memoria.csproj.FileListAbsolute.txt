@@ -1,0 +1,14 @@
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\bin\Debug\net8.0\Memoria.exe
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\bin\Debug\net8.0\Memoria.deps.json
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\bin\Debug\net8.0\Memoria.runtimeconfig.json
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\bin\Debug\net8.0\Memoria.dll
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\bin\Debug\net8.0\Memoria.pdb
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\obj\Debug\net8.0\Memoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\obj\Debug\net8.0\Memoria.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\obj\Debug\net8.0\Memoria.AssemblyInfo.cs
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\obj\Debug\net8.0\Memoria.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\obj\Debug\net8.0\Memoria.dll
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\obj\Debug\net8.0\refint\Memoria.dll
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\obj\Debug\net8.0\Memoria.pdb
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\obj\Debug\net8.0\Memoria.genruntimeconfig.cache
+C:\Users\ALUMNO\source\repos\Memoria\Memoria\obj\Debug\net8.0\ref\Memoria.dll
